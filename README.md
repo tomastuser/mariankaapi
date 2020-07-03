@@ -1,3 +1,3 @@
 # Strapi application
 
-¨Backend using Strapi
+Backend using Strapi
